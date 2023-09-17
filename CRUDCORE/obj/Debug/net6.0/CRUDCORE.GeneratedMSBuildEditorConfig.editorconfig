@@ -24,6 +24,14 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/xadmin/Desktop/projects/crud_core/CRUDCORE/CRUDCORE/Views/Mantenedor/Editar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFudGVuZWRvclxFZGl0YXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/xadmin/Desktop/projects/crud_core/CRUDCORE/CRUDCORE/Views/Mantenedor/Eliminar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFudGVuZWRvclxFbGltaW5hci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/xadmin/Desktop/projects/crud_core/CRUDCORE/CRUDCORE/Views/Mantenedor/Guardar.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFudGVuZWRvclxHdWFyZGFyLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
